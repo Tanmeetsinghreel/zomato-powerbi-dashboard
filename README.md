@@ -36,25 +36,6 @@ The dashboard is divided into **3 main pages**:
 - **Data Modeling**
 - **Dynamic Titles, Slicers & Navigation**
 
----
-
-## 📸 Screenshots
-
-> Add screenshots inside a `/screenshots` folder and link them here:
-
-![Overview](![image](https://github.com/user-attachments/assets/de80c5a0-cb47-423e-8975-4c60e3cdf729))
-![User Performance](screenshots/user_performance.png)
-![City Performance](screenshots/city_performance.png)
-
----
-
-## 📂 Files Included
-
-- `Zomato_Dashboard.pbix` – Main Power BI dashboard file.
-- `Zomato_Dashboard_Summary.docx` – Documentation summary of project.
-- `screenshots/` – Folder containing preview images.
-
----
 
 ## 📌 Note
 
@@ -74,9 +55,6 @@ The dashboard is divided into **3 main pages**:
 ## 👨‍💻 Author
 
 **Tanmeet Singh Reel**  
-- 📧 tanmeetsingh202@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [GitHub](https://github.com/your-username)
 
 ---
 

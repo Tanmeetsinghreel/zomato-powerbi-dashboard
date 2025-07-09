@@ -42,7 +42,7 @@ The dashboard is divided into **3 main pages**:
 
 > Add screenshots inside a `/screenshots` folder and link them here:
 
-![Overview](screenshots/overview.png)
+![Overview](![image](https://github.com/user-attachments/assets/de80c5a0-cb47-423e-8975-4c60e3cdf729))
 ![User Performance](screenshots/user_performance.png)
 ![City Performance](screenshots/city_performance.png)
 

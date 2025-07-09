@@ -44,14 +44,6 @@ The dashboard is divided into **3 main pages**:
 
 ---
 
-## 🚀 How to Use
-
-1. Clone the repository or download the `.pbix` file.
-2. Open it with Power BI Desktop.
-3. Explore the dashboard pages and interact with slicers and filters.
-
----
-
 ## 👨‍💻 Author
 
 **Tanmeet Singh Reel**  
